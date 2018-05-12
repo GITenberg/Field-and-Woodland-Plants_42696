@@ -1,0 +1,31 @@
+_repo: Field-and-Woodland-Plants_42696
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wilson, Patten
+    gutenberg_agent_id: '42325'
+    url: http://www.gutenberg.org/2009/agents/42325
+covers:
+- cover_type: archival
+  image_path: 42696-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Furneaux, William S.
+    alias: Furneaux, W. S. (William S.)
+    gutenberg_agent_id: '36811'
+    url: http://www.gutenberg.org/2009/agents/36811
+description: ''
+gutenberg_issued: '2013-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Plants -- Identification'
+- !lcsh 'Wild flowers -- Great Britain'
+title: Field and Woodland Plants
+url: http://www.gutenberg.org/ebooks/42696
